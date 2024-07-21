@@ -1,3 +1,12 @@
+[/] Implement Search
+    - Serch by Tag 
+    - User
+    - Prompt content
+[/] Implement Click on tag
+[/] Implement View other Profiles
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
